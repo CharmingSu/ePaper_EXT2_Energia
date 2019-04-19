@@ -1,5 +1,5 @@
 /* 
- *  This example code is for PDi 3.7" BWR EPD on EXT2 board which is verified by TI Launchpad MSP-EXP432P401R(red PCB).
+ *  This example code is for PDi 4.37" BWR EPD on EXT2 board which is verified by TI Launchpad MSP-EXP432P401R(red PCB).
  *  For more information about PDi EPD and EXT2 board, please visit 
  *  http://www.pervasivedisplays.com/
  *  http://www.pervasivedisplays.com/kits/ext2_kit
