@@ -1,2 +1,2 @@
 * 3.7" BWR EPD(E2370FS081)
-* http://www.pervasivedisplays.com/products/370
+* https://www.pervasivedisplays.com/product/3-7-e-ink-display/
