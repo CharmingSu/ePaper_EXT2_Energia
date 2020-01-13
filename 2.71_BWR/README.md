@@ -1,2 +1,2 @@
 * 2.71" BWR EPD(E2271FS091)
-* http://www.pervasivedisplays.com/products/271i
+* https://www.pervasivedisplays.com/product/2-71-e-ink-display-itc/
