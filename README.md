@@ -1,5 +1,5 @@
 # ePaper_EXT2_Energia
-* The example code is for PDi iTC EPD(1.54"/2.13"/2.71"/2.87"/3.7"/4.2"/4.37"/**5.8"**/7.4"/**9.7"**/12") on EXT2 board, it's verified by TI Launchpad MSP-EXP432P401R(red PCB), EK-TM4C123GXL for big size EPDs(5.8"/7.4"/9.7"/12")
+* The example code is for PDi iTC EPD(1.54"/2.13"/2.66"/2.71"/2.87"/3.7"/4.2"/4.37"/5.8"/7.4"/9.7"/12") on EXT2 board, it's verified by TI Launchpad MSP-EXP432P401R(red PCB), EK-TM4C123GXL for big size EPDs(5.8"/7.4"/9.7"/12")
 
  ### Launchpad Pin assignment for EXT2 Board
  ```bash
